@@ -7,7 +7,7 @@
 ## 🔗 Live Application Links
 
 - **🌐 Live Production / Shared App**: [https://ais-pre-z2h4bofprah275lmufmu3s-460816146050.asia-southeast1.run.app](https://ais-pre-z2h4bofprah275lmufmu3s-460816146050.asia-southeast1.run.app)
-- **🛠️ Development Preview App**: [https://ais-dev-z2h4bofprah275lmufmu3s-460816146050.asia-southeast1.run.app](https://ais-dev-z2h4bofprah275lmufmu3s-460816146050.asia-southeast1.run.app)
+
 
 ---
 
