@@ -192,7 +192,7 @@ npm start
 - **Institution**: Malla Reddy College of Engineering and Technology (MRCET)
 - **Specialization**: Computer Science & Engineering
 - **Focus Areas**: Relational Database Design, SQL Query Optimization, Full-Stack Development
-- **Email**: [sithaambadipudi5@gmail.com](mailto:sithaambadipudi5@gmail.com)
+- **Email**: rupaambadipudi@gmail.com
 - **Phone**: +91 9701691282
 - **Location**: Hyderabad, Telangana, India
 - **Live Platform**: [https://ais-pre-z2h4bofprah275lmufmu3s-460816146050.asia-southeast1.run.app](https://ais-pre-z2h4bofprah275lmufmu3s-460816146050.asia-southeast1.run.app)
